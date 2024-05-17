@@ -11,6 +11,9 @@ Welcome to aplpyn (pronounced "apple pen"), a Python CLI for APL.
 * Stateful and Stateless APL sessions
 * No APL interpreter required
 
+## How to run
+`pip install -r requirements.txt` to install required modules<br>
+`python main.py` to run the CLI and start APLing!
 
 ## TODO:
 
